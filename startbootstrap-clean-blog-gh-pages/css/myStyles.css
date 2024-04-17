@@ -1,0 +1,32 @@
+h1{
+    color: white;
+}
+
+body{
+    background-color: rgb(215, 213, 213);
+}
+
+#photo-description{
+    color: rgb(97, 97, 97);
+    padding-top: 0px;
+    font-family: Arial;
+    font-style: italic;
+}
+
+#mount{
+    padding-bottom: 0px;
+}
+
+.italic-title{
+    text-decoration: italic;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+hr.my-4{
+    border-color: black;
+}
+
+a{
+    color: rgb(80, 80, 234);
+}
