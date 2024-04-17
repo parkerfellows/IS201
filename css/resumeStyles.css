@@ -1,0 +1,59 @@
+h3{
+    font-style: italic;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(232, 208, 153);
+}
+
+h2{
+    text-decoration:underline;
+}
+
+#section1{
+    position: relative;
+    top: 50px;
+    left: 50px;
+    right: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-family: Garamond;
+    font-size: x-large;
+    color: rgb(94, 46, 46);
+    background-color: burlywood;
+}
+
+#section1 img{
+    display:block;
+    margin: 0 auto;
+}
+
+#section1 h1{
+    font-family: "Garamond", serif;
+}
+
+.container {
+    padding-top: 10PX;
+    display: flex; /* Use flexbox to center content */
+    justify-content: center; /* Center content horizontally */
+  }
+  
+  .centered-list {
+    list-style-position: inside; /* Place the numbers inside the list items */
+    padding: 0; /* Remove default padding */
+  }
+  
+  .centered-list li {
+    text-align: left; /* Align text to the left */
+  }
+
+.youtubevideo{
+    text-align: center;
+}
+
+.tableauPlaceholder{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 100px;
+}
